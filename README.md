@@ -121,5 +121,5 @@ result_map = gmaps.static_map(
   maptype="roadmap",
   markers=markers,
   path="color:0x0000ff|weight:2|" + "|".join(waypoints))
-'''
+
 And the final result will look like this:

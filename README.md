@@ -34,7 +34,7 @@ There are two main ways to get our places from google:
 #Places API library on Python
 geocode_result = gmaps.places('sushi en aguascalientes',location=[21.8828836,-102.2956243],radius=100)
 #HTTP request using request module on Python
-endpoint_url = "https://maps.googleapis.com/maps/api/place/textsearch/json?query="+loc+"&location=21.8828836,-102.2956243&radius=10&key=AIz res = requests.get(endpoint_url, params = params)
+endpoint_url = "https://maps.googleapis.com/maps/api/place/textsearch/json?query="+loc+"&location=21.8828836,-102.2956243&radius=10&key=YOUR API KEY res = requests.get(endpoint_url, params = params)
 ```
 Both of these methods return a JSON with the results:
 ```

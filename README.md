@@ -123,3 +123,4 @@ result_map = gmaps.static_map(
   path="color:0x0000ff|weight:2|" + "|".join(waypoints))
 ```
 And the final result will look like this:
+![Captura de Pantalla 2022-01-21 a la(s) 16 23 46](https://user-images.githubusercontent.com/22695707/150608146-a9567ff0-c103-4b41-bda1-2e69d0461030.png)

@@ -1,6 +1,6 @@
 # Working with Google Maps and Ant Colony Algorithm
 
-The main goal of this project is to try and optimize the route of a set of given location across Aguascalientes (or any city covered by Google Maps). The intent of this document is to guide you through the process of achieveing this goal by using Python and the Google Maps API.
+The main goal of this project is to try and optimize the route of a set of given locations across Aguascalientes (or any city covered by Google Maps). The intent of this document is to guide you through the process of achieveing this goal by using Python and the Google Maps API.
 
 ## Google Maps API
 The Google Maps API is divided into different APIs, such as:
